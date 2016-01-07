@@ -1,0 +1,98 @@
+body {
+  background-image: url("droga.jpg");
+  background-repeat: no-repeat;
+}
+
+p {
+  text-indent: 60px;
+  text-shadow: 6px 6px 6px;
+  font-size: 36px;
+}
+
+c {
+	margin-left: 30px;
+  text-indent: 30px;
+  text-shadow: 6px 6px 6px;
+  font-size: 36px;
+}
+r {
+	margin-right: 10px;
+	margin-left: 25px;
+	text-indent: 25px;
+  font-size: 18px;
+}
+
+k {
+	margin-left: 150px;
+}
+
+l {
+	margin-left: 50px;
+	font-size: 36px
+}
+
+j {
+	margin-left: 450px;
+}
+r.ex{margin-left: inherit;
+}
+	 
+#lblock {
+  background-color: #6666cc;
+  color: white;
+  height: 500px;
+  width: 510px;
+  margin-top: -10px;
+  margin-bottom: -50px;
+  margin-left: -10px;
+  float: left;
+  opacity: 0.6;
+  overflow: auto;
+  box-shadow: 5px 5px 5px black;
+}
+
+#lblock2 {
+  background-color: #330099;
+  color: white;
+  height: 320px;
+  width:1080px;
+  margin-top: 490px;
+  margin-bottom: -20px;
+  margin-right: -10px;
+  float: left;
+  opacity: 0.6;
+  overflow: auto;
+  box-shadow: 5px 5px 5px black;
+}
+
+#lblock3 {
+  background-color: #6666cc  ;
+  color: white;
+  height: 300px;
+  width: 250px;
+  margin-top: -300px;
+  margin-bottom;
+  margin-left: -10px;
+  float: left;
+  opacity: 0.6;
+  overflow: auto;
+  box-shadow;
+}
+
+#lblock4 {
+  background-color: #6666cc  ;
+  color: white;
+  height: 300px;
+  width: 260px;
+  margin-top: -300px;
+  margin-bottom;
+  margin-left: 240px;
+  float: left;
+  opacity: 0.6;
+  overflow: auto;
+  box-shadow: 5px 5px 5px black
+}
+ {
+  width: 1250px;
+  margin: auto;
+}
